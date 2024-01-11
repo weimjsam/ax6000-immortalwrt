@@ -4,8 +4,8 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/hanwckf/immortalwrt-mt798x.git
-  REPO_BRANCH: openwrt-21.02
+  REPO_URL: https://github.com/Lienol/lean-lede.git
+  REPO_BRANCH: master
   CONFIG_FILE: AX6000.config
 
 jobs:
